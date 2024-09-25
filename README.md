@@ -41,5 +41,5 @@ I’m looking forward to taking the next step in my journey as a **Software Deve
 ## 📫 Let's Connect!
 
 - **GitHub:** [AliZagham1](https://github.com/AliZagham1)
-- **LinkedIn:** [Syed Muhammad Ali Zagham](#)
+- **LinkedIn:** www.linkedin.com/in/syed-muhammad-ali-zagham-1b8167305
 
