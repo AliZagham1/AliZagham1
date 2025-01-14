@@ -1,6 +1,6 @@
 # Hi, I'm Syed Muhammad Ali Zagham 👋
 
-**Computer Science Major | Code to solve problems |Future Software Development Engineer (SDE)**
+**Computer Science Major | Code to solve problems | Future Software Development Engineer (SDE)**
 
 **🚀 About Me**
 
