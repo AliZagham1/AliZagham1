@@ -15,11 +15,11 @@ My goal is to grow as a Software Development Engineer (SDE) and contribute to im
  I aim to advance my skills as a Software Development Engineer (SDE), working on meaningful projects that make a difference in the tech industry.
 
 ## 💡 Skills & Tools
--Languages:  Java | C++ | JavaScript | TypeScript | SQL | HTML | CSS
+- Languages:  Java | C++ | JavaScript | TypeScript | SQL | HTML | CSS
 
-Frameworks and Libraries: React.js | Next.js | Express .js | Node.js | Tailwind CSS
+- Frameworks and Libraries: React.js | Next.js | Express .js | Node.js | Tailwind CSS
 
-Tools and Technologies: PostgreSQL | Prisma | Drizzle | Git/GitHub | Vercel | Supabase | Neon | Hono | OpenAI 
+- Tools and Technologies: PostgreSQL | Prisma | Drizzle | Git/GitHub | Vercel | Supabase | Neon | Hono | OpenAI 
 ---
 ## 📫 Let's Connect!
 
