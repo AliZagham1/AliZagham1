@@ -10,9 +10,6 @@ Recently, I have been working with TypeScript and Next.js to build scalable, mod
 
 My goal is to grow as a Software Development Engineer (SDE) and contribute to impactful and innovative projects.
 
-## 🌱 What's Next?
-
- I aim to advance my skills as a Software Development Engineer (SDE), working on meaningful projects that make a difference in the tech industry.
 
 ## 💡 Skills & Tools
 - Languages:  Java | C++ | JavaScript | TypeScript | SQL | HTML | CSS
